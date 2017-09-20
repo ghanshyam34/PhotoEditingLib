@@ -1,0 +1,6 @@
+<resources>
+
+    <dimen name="stroke_size">3dp</dimen>
+    <dimen name="header_size">60dp</dimen>
+
+</resources>
