@@ -19,9 +19,8 @@ Please see the below example in Screen shots
 
 
 ## License
-```
 [MIT](https://github.com/ghanshyam34/MyPhotoEditingDemo/blob/master/LICENSE)
-
+```
 Copyright (c) 2019 Ghanshyamp
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
