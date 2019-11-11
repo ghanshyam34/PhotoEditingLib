@@ -3,9 +3,9 @@ This Android Demo contains the code for Editing the existing photo or captured p
 
 
 ```
-   dependencies {
-	   implementation 'com.github.ghanshyam34:PhotoEditingLib:f0cc08be0a'
-	}
+dependencies {
+      implementation 'com.github.ghanshyam34:PhotoEditingLib:f0cc08be0a'
+  }
 ```
 
 Please see the below example in Screen shots
