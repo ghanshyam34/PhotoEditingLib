@@ -1,6 +1,12 @@
-# MyPhotoEditingDemo
+# PhotoEditingDemo
 This Android Demo contains the code for Editing the existing photo or captured photo,import the library inside the project and use the photo editing fetures like filter,Sticker,Text,Crop etc...
 
+
+```
+dependencies {
+	        implementation 'com.github.ghanshyam34:PhotoEditingLib:f0cc08be0a'
+	}
+```
 
 Please see the below example in Screen shots
 
