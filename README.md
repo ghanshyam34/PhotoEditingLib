@@ -10,17 +10,17 @@ dependencies {
 
 Please see the below example in Screen shots
 
-<img src="https://raw.githubusercontent.com/ghanshyam34/MyPhotoEditingDemo/master/myphotoeditinglibrary/src/main/assets/fonts/2019-08-14_1328.png" data-canonical-src="https://raw.githubusercontent.com/ghanshyam34/MyPhotoEditingDemo/master/myphotoeditinglibrary/src/main/assets/fonts/2019-08-14_1328.png" width="460" height="720" />
+<img src="https://raw.githubusercontent.com/ghanshyam34/MyPhotoEditingDemo/master/myphotoeditinglibrary/src/main/assets/fonts/1.png" data-canonical-src="https://raw.githubusercontent.com/ghanshyam34/MyPhotoEditingDemo/master/myphotoeditinglibrary/src/main/assets/fonts/1.png" width="460" height="720" />
 
-<img src="https://raw.githubusercontent.com/ghanshyam34/MyPhotoEditingDemo/master/myphotoeditinglibrary/src/main/assets/fonts/Screenshot_20190814_121716_com.gs.myphotoediting.jpg" data-canonical-src="https://raw.githubusercontent.com/ghanshyam34/MyPhotoEditingDemo/master/myphotoeditinglibrary/src/main/assets/fonts/Screenshot_20190814_121716_com.gs.myphotoediting.jpg" width="460" height="720" />
+<img src="https://raw.githubusercontent.com/ghanshyam34/MyPhotoEditingDemo/master/myphotoeditinglibrary/src/main/assets/fonts/2.jpg" data-canonical-src="https://raw.githubusercontent.com/ghanshyam34/MyPhotoEditingDemo/master/myphotoeditinglibrary/src/main/assets/fonts/2.jpg" width="460" height="720" />
 
-<img src="https://raw.githubusercontent.com/ghanshyam34/MyPhotoEditingDemo/master/myphotoeditinglibrary/src/main/assets/fonts/Screenshot_20190814_121727_com.gs.myphotoediting.jpg" data-canonical-src="https://raw.githubusercontent.com/ghanshyam34/MyPhotoEditingDemo/master/myphotoeditinglibrary/src/main/assets/fonts/Screenshot_20190814_121727_com.gs.myphotoediting.jpg" width="460" height="720" />
+<img src="https://raw.githubusercontent.com/ghanshyam34/MyPhotoEditingDemo/master/myphotoeditinglibrary/src/main/assets/fonts/3.jpg" data-canonical-src="https://raw.githubusercontent.com/ghanshyam34/MyPhotoEditingDemo/master/myphotoeditinglibrary/src/main/assets/fonts/3.jpg" width="460" height="720" />
 
-<img src="https://raw.githubusercontent.com/ghanshyam34/MyPhotoEditingDemo/master/myphotoeditinglibrary/src/main/assets/fonts/Screenshot_20190814_121940_com.gs.myphotoediting.jpg" data-canonical-src="https://raw.githubusercontent.com/ghanshyam34/MyPhotoEditingDemo/master/myphotoeditinglibrary/src/main/assets/fonts/Screenshot_20190814_121940_com.gs.myphotoediting.jpg" width="460" height="720" />
+<img src="https://raw.githubusercontent.com/ghanshyam34/MyPhotoEditingDemo/master/myphotoeditinglibrary/src/main/assets/fonts/4.jpg" data-canonical-src="https://raw.githubusercontent.com/ghanshyam34/MyPhotoEditingDemo/master/myphotoeditinglibrary/src/main/assets/fonts/4.jpg" width="460" height="720" />
 
-<img src="https://raw.githubusercontent.com/ghanshyam34/MyPhotoEditingDemo/master/myphotoeditinglibrary/src/main/assets/fonts/Screenshot_20190814_122021_com.gs.myphotoediting.jpg" data-canonical-src="https://raw.githubusercontent.com/ghanshyam34/MyPhotoEditingDemo/master/myphotoeditinglibrary/src/main/assets/fonts/Screenshot_20190814_122021_com.gs.myphotoediting.jpg" width="460" height="720" />
+<img src="https://raw.githubusercontent.com/ghanshyam34/MyPhotoEditingDemo/master/myphotoeditinglibrary/src/main/assets/fonts/5.jpg" data-canonical-src="https://raw.githubusercontent.com/ghanshyam34/MyPhotoEditingDemo/master/myphotoeditinglibrary/src/main/assets/fonts/5.jpg" width="460" height="720" />
 
-<img src="https://raw.githubusercontent.com/ghanshyam34/MyPhotoEditingDemo/master/myphotoeditinglibrary/src/main/assets/fonts/Screenshot_20190814_122058_com.android.gallery3d.jpg" data-canonical-src="https://raw.githubusercontent.com/ghanshyam34/MyPhotoEditingDemo/master/myphotoeditinglibrary/src/main/assets/fonts/Screenshot_20190814_122058_com.android.gallery3d.jpg" width="460" height="720" />
+<img src="https://raw.githubusercontent.com/ghanshyam34/MyPhotoEditingDemo/master/myphotoeditinglibrary/src/main/assets/fonts/6.jpg" data-canonical-src="https://raw.githubusercontent.com/ghanshyam34/MyPhotoEditingDemo/master/myphotoeditinglibrary/src/main/assets/fonts/6.jpg" width="460" height="720" />
 
 
 
