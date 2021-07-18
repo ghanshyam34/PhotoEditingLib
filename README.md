@@ -10,7 +10,7 @@ dependencies {
 
 Please see the below example in Screen shots
 
-<img src="https://raw.githubusercontent.com/ghanshyam34/MyPhotoEditingDemo/master/myphotoeditinglibrary/1.png?token=ADGTKDH775GUQFAU4P4HKODA6PYZE" data-canonical-src="https://raw.githubusercontent.com/ghanshyam34/MyPhotoEditingDemo/master/myphotoeditinglibrary/1.png?token=ADGTKDH775GUQFAU4P4HKODA6PYZE" width="460" height="720" />
+<img src="https://raw.githubusercontent.com/ghanshyam34/MyPhotoEditingDemo/master/myphotoeditinglibrary/1.jpg" data-canonical-src="https://raw.githubusercontent.com/ghanshyam34/MyPhotoEditingDemo/master/myphotoeditinglibrary/1.jpg" width="460" height="720" />
 
 <img src="https://raw.githubusercontent.com/ghanshyam34/MyPhotoEditingDemo/master/myphotoeditinglibrary/2.jpg" data-canonical-src="https://raw.githubusercontent.com/ghanshyam34/MyPhotoEditingDemo/master/myphotoeditinglibrary/2.jpg" width="460" height="720" />
 
