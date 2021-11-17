@@ -12,15 +12,15 @@ Please see the below example in Screen shots
 
 <img src="https://github.com/ghanshyam34/PhotoEditingLib/blob/4b8feb839551c479e18cca7d80ecc534248b538a/myphotoeditinglibrary/1.jpg" data-canonical-src="https://github.com/ghanshyam34/PhotoEditingLib/blob/4b8feb839551c479e18cca7d80ecc534248b538a/myphotoeditinglibrary/1.jpg" width="460" height="720" />
 
-<img src="https://raw.githubusercontent.com/ghanshyam34/MyPhotoEditingDemo/master/myphotoeditinglibrary/2.jpg" data-canonical-src="https://raw.githubusercontent.com/ghanshyam34/MyPhotoEditingDemo/master/myphotoeditinglibrary/2.jpg" width="460" height="720" />
+<img src="https://github.com/ghanshyam34/PhotoEditingLib/blob/4b8feb839551c479e18cca7d80ecc534248b538a/myphotoeditinglibrary/2.jpg" data-canonical-src="https://github.com/ghanshyam34/PhotoEditingLib/blob/4b8feb839551c479e18cca7d80ecc534248b538a/myphotoeditinglibrary/2.jpg" width="460" height="720" />
 
-<img src="https://raw.githubusercontent.com/ghanshyam34/MyPhotoEditingDemo/master/myphotoeditinglibrary/3.jpg" data-canonical-src="https://raw.githubusercontent.com/ghanshyam34/MyPhotoEditingDemo/master/myphotoeditinglibrary/3.jpg" width="460" height="720" />
+<img src="https://github.com/ghanshyam34/PhotoEditingLib/blob/4b8feb839551c479e18cca7d80ecc534248b538a/myphotoeditinglibrary/3.jpg" data-canonical-src="https://github.com/ghanshyam34/PhotoEditingLib/blob/4b8feb839551c479e18cca7d80ecc534248b538a/myphotoeditinglibrary/3.jpg" width="460" height="720" />
 
-<img src="https://raw.githubusercontent.com/ghanshyam34/MyPhotoEditingDemo/master/myphotoeditinglibrary/4.jpg" data-canonical-src="https://raw.githubusercontent.com/ghanshyam34/MyPhotoEditingDemo/master/myphotoeditinglibrary/4.jpg" width="460" height="720" />
+<img src="https://github.com/ghanshyam34/PhotoEditingLib/blob/4b8feb839551c479e18cca7d80ecc534248b538a/myphotoeditinglibrary/4.jpg" data-canonical-src="https://github.com/ghanshyam34/PhotoEditingLib/blob/4b8feb839551c479e18cca7d80ecc534248b538a/myphotoeditinglibrary/4.jpg" width="460" height="720" />
 
-<img src="https://raw.githubusercontent.com/ghanshyam34/MyPhotoEditingDemo/master/myphotoeditinglibrary/5.jpg" data-canonical-src="https://raw.githubusercontent.com/ghanshyam34/MyPhotoEditingDemo/master/myphotoeditinglibrary/5.jpg" width="460" height="720" />
+<img src="https://github.com/ghanshyam34/PhotoEditingLib/blob/4b8feb839551c479e18cca7d80ecc534248b538a/myphotoeditinglibrary/5.jpg" data-canonical-src="https://github.com/ghanshyam34/PhotoEditingLib/blob/4b8feb839551c479e18cca7d80ecc534248b538a/myphotoeditinglibrary/5.jpg" width="460" height="720" />
 
-<img src="https://raw.githubusercontent.com/ghanshyam34/MyPhotoEditingDemo/master/myphotoeditinglibrary/6.jpg" data-canonical-src="https://raw.githubusercontent.com/ghanshyam34/MyPhotoEditingDemo/master/myphotoeditinglibrary/6.jpg" width="460" height="720" />
+<img src="https://github.com/ghanshyam34/PhotoEditingLib/blob/4b8feb839551c479e18cca7d80ecc534248b538a/myphotoeditinglibrary/6.jpg" data-canonical-src="https://github.com/ghanshyam34/PhotoEditingLib/blob/4b8feb839551c479e18cca7d80ecc534248b538a/myphotoeditinglibrary/6.jpg" width="460" height="720" />
 
 
 
